@@ -1,3 +1,3 @@
-# Projeto_Gasolina
+# Projeto_R
 
-Alunos: João Victor Torpe Silva / Víctor Gabriel de Santana.
+Criação de Dashboards por meio de uma tabela de preços da gasolina
